@@ -20,7 +20,7 @@ Os requisitos foram:
  - jest
 
 ## Observação
-`página do Swagger com lista de endpoints na raiz` [/](#/)
+`página do Swagger com lista de endpoints na raiz` [http://localhost:3000/](http://localhost:3000/)
 
 ## Instalação - Docker
 ```bash
